@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "PraticandoAzure": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7210",
+      "launchBrowser": false
+    }
+  }
+}
